@@ -1,4 +1,4 @@
-# GRIP_Task3
+# Exploratory-Data-Analysis---Retail
 Traning Data Set:-https://drive.google.com/file/d/1dD7A1PelkokeNIc6nOs48GxLiSLElHIV/view?usp=sharing  
 ![task3-1](https://user-images.githubusercontent.com/59888656/111771771-1adaf900-88d2-11eb-9a87-84c2d2cecca1.jpg)
 ![task3-2](https://user-images.githubusercontent.com/59888656/111771787-1d3d5300-88d2-11eb-9cc6-8b2273542fb2.jpg)
